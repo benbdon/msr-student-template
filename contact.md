@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image:/msr-student-template/public/images/Batmananimated32.png
+image: /msr-student-template/public/images/Batmananimated32.png
 ---
 
 ## Quick Spiel
