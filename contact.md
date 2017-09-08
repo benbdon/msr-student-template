@@ -12,4 +12,4 @@ Chicago-native with a wide-variety of experiences. Experienced in sales, enginee
 * Email: benjamindon2018@u.northwestern.edu
 * Address: 2145 Sheridan Rd., Evanston, IL, 60201
 
-Please don't hesitate to reach out. I'm happy to collaborate with you company.
+Please don't hesitate to reach out. I'm happy to collaborate with your company.
