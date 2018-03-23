@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: /msr_profile_ben_don/msr-student-template/public/images/machine-generated-code.png
+image: /msr-student-template/public/images/machine-generated-code.png
 ---
 
 ## Overview
